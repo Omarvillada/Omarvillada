@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Omarvillada
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola mi nombre es @Omarvillada
+- 👀 Soy Tecnologo en Analisis y Desarrollo de Sistemas de Información. Con experiencia en desarrollo Web, Mobile y Automatización de procesos.
+- 🌱 En constante aprendizaje y autoconocimiento propio. Amante de la literatura, poesía y filosofía.
 
-<!---
-Omarvillada/Omarvillada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
